@@ -1,1 +1,1 @@
-SELECT * FROM hello_mysql.users;
+SELECT * FROM
