@@ -1,0 +1,4 @@
+
+SELECT COUNT(age) FROM users HAVING COUNT(age) > 0
+
+SELECT COUNT(age) FROM users HAVING COUNT(age) > 3
